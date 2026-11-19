@@ -421,6 +421,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Diagram](https://diagram.com/) - Magical new ways to design products.
 - [PromptBase](https://promptbase.com/) - A marketplace for buying and selling quality prompts for DALL·E, GPT-3, Midjourney, Stable Diffusion.
 - [TopFreePrompts](https://topfreeprompts.com/) - A free library of curated prompts for ChatGPT, Claude, Gemini and Midjourney, organized by tool, category and use case.
+- [PromptingStudioAI](https://promptingstudioai.com/) - AI prompt generator and optimizer with a prompt library covering 30 tools and 93 categories; builds model-specific structured prompts for Midjourney, ChatGPT, Gemini and Grok.
 - [This Image Does Not Exist](https://thisimagedoesnotexist.com/) - Test your ability to tell if an image is human or computer generated.
 - [Have I Been Trained?](https://haveibeentrained.com/) - Check if your image has been used to train popular AI art models.
 - [AI Dungeon](https://aidungeon.io/) - A text-based adventure-story game you direct (and star in) while the AI brings it to life.
