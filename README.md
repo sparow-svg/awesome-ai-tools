@@ -240,6 +240,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [MutahunterAI](https://github.com/codeintegrity-ai/mutahunter) - Accelerate developer productivity and code security with our open-source AI.
 - [AI Kernel Explorer](https://github.com/mathiscode/ai-kernel-explorer) - Explore the Linux kernel source code with AI-generated summaries.
 - [WhoDB](https://github.com/clidey/whodb) - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
+- [BrowserMoon](https://www.browsermoon.com) - 700+ professionally designed templates for AI coding tools: landing pages, hero sections, pricing tables, dashboards and app screens to copy and paste into Claude Code, Cursor, Lovable, Bolt, Replit and Codex.
 
 ## Image
 
